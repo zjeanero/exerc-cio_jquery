@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    justify-items: center;
+    margin-top: 100px;
+}
+
+.completo {
+    text-decoration: line-through;
+}
+
+#lista-tarefas {
+    margin-top: 25px;
+    cursor: pointer;
+}
